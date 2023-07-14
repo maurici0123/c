@@ -12,5 +12,6 @@ int main(void)
 
     s = x + y;
 
+
     printf("a soma dos numeros e: %d", s);
 }
